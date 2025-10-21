@@ -18,7 +18,7 @@ docker-compose --version
 
 ### Montar estructura de los directorios
 Siguiendo las directices del subject, creo las carpetas y subcarpetas con los archivos necesarios:
-<img width="546" height="1008" alt="Screenshot from 2025-10-21 19-24-07" src="https://github.com/user-attachments/assets/647df9a5-79ee-4897-9c48-a2840c8d224a" />
+<img width="273" height="504" alt="Screenshot from 2025-10-21 19-24-07" src="https://github.com/user-attachments/assets/647df9a5-79ee-4897-9c48-a2840c8d224a" />
 
 
 ## Configuración del Proyecto

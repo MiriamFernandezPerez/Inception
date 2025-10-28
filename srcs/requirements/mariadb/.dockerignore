@@ -1,0 +1,31 @@
+# =================================
+# Inception - MariaDB .dockerignore
+# =================================
+
+# System / Editor files
+.DS_Store
+*.swp
+*.swo
+*~
+*.log
+tmp/
+logs/
+
+# Git and versioning
+.git
+.gitignore
+
+# Environment & secrets
+.env
+**/secrets/
+secrets/
+*.txt
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+.cache/
+
+# Ignore unrelated folders
+../wordpress/
+../nginx/
